@@ -23,8 +23,8 @@ python app.py
 <a href="https://github.com/OlympicThuyLoi2024/ModelPredict/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=BUG">Bug Report ⚠️
 </a>
 
-<a href="https://github.com/OlympicThuyLoi2024/ChatBot/issues/new?assignees=&labels=&projects=&template=feature_template.md&title=Feature">Request Feature 👩‍💻</a>
-
+<a href="https://github.com/OlympicThuyLoi2024/ModelPredict/issues/new?assignees=&labels=&projects=&template=feature_template.md&title=Feature">Request Feature 👩‍💻</a>
+plate.
 Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](.github/CONTRIBUTING.md) để tìm hiểu thêm chi tiết.
 
 Chúng tôi rất trân trọng mọi đóng góp từ các bạn. Đừng ngần ngại tạo pull request và gửi đến dự án.
