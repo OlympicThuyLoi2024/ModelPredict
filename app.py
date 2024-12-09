@@ -1,3 +1,7 @@
+#  * @Project ModelPredict
+#  * @Author TT(trungthanhcva2206@gmail.com@gmail.com)
+#  * @Copyright (C) 2024 CHK. All rights reserved
+#  * @License GNU/GPL version 3.0
 from flask import Flask, render_template
 import joblib
 import pandas as pd
