@@ -13,7 +13,26 @@
 ### 1. Yêu cầu hệ thống  
 - [**Python**](https://www.python.org/downloads/): Tối thiểu phiên bản 3.10.
 - **Yêu cầu về thư viện**: Flask, Flask-RESTful, numpy, joblib, requests, statsmodels, gunicorn.
-### 2. Khởi chạy model trên máy local
-- Di chuyển đến thư mục của dự án
-- Chạy lệnh python app.py để khởi chạy ứng dụng Flask, truy cập vào địa chỉ local để xem dự đoán của mô hình
+### 2. Cài đặt
+#### 1. Chạy file app.py
+```bash
+python app.py
+```
+## Đóng góp cho dự án
 
+<a href="https://github.com/OlympicThuyLoi2024/ChatBot/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=BUG">Bug Report ⚠️
+</a>
+
+<a href="https://github.com/OlympicThuyLoi2024/ChatBot/issues/new?assignees=&labels=&projects=&template=feature_template.md&title=Feature">Request Feature 👩‍💻</a>
+
+Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](.github/CONTRIBUTING.md) để tìm hiểu thêm chi tiết.
+
+Chúng tôi rất trân trọng mọi đóng góp từ các bạn. Đừng ngần ngại tạo pull request và gửi đến dự án.
+
+## Tác giả
+- Nguyễn Lê Trung Thành
+- Trần Tuấn Anh
+- Lê Văn Quang
+
+# License
+Phần mềm sử dụng License  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
