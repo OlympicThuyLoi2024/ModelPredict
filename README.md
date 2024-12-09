@@ -7,7 +7,7 @@
 
 ### v1.0
 - Đưa ra giá trị dự đoán và xu hướng dịch bệnh biến chuyển trong tương lai
-- Nhận input từ API và đưa ra output dựa trên dữ liệu nhận được, output này sẽ thay đổi theo input
+- Nhận input từ API lấy dữ liệu tổng các ca nhiễm  và đưa ra output dự đoán dựa trên dữ liệu nhận được.
 
 ## Hướng dẫn cài đặt
 ### 1. Yêu cầu hệ thống  
