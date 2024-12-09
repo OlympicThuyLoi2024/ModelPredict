@@ -14,7 +14,9 @@
 - [**Python**](https://www.python.org/downloads/): Tối thiểu phiên bản 3.10.
 - **Yêu cầu về thư viện**: Flask, Flask-RESTful, numpy, joblib, requests, statsmodels, gunicorn.
 ### 2. Cài đặt
-#### 1. Chạy file app.py
+#### 1. Clone mã nguồn từ: https://github.com/OlympicThuyLoi2024/ModelPredict
+#### 2. Chạy file requirements.txt
+#### 3. Chạy file app.py
 ```bash
 python app.py
 ```
